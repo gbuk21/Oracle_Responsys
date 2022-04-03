@@ -29,3 +29,5 @@ https://docs.oracle.com/en/cloud/saas/marketing/responsys-user/Help/CED/FileLayo
 1) Responsys_table_production.py produces table structures based on the file layouts from above. Takes a parameter to produce tables for the type of file layout like email, SMS etc
 2) Responsys_table_code_generator.py - produces insert script into staging table, duplicates tables and curated table
 3) Responsys_merge_script.py - Generic interface code to handle various campain types and file types.
+
+https://daily-reading.com/site-words/study_picture/1649024998
